@@ -1,0 +1,4 @@
+[info] FunSetSuite:
+[info] - contains is implemented
+[info] - singletonSet(1) contains 1
+[info] - union contains all elements of each set
